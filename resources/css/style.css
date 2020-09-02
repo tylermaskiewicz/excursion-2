@@ -1,0 +1,61 @@
+/* Universal Styles */
+
+
+html {
+  font-family: "Verdana", sans-serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1, h2, h3,  h4, h5 {
+    font-weight: normal;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+content {
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+#header a {
+    margin-top: 50px;
+}
+h1 {
+    font-size: 50px;
+}
+
+a:link {
+  font-size: 16px;
+  color: aquamarine;`
+}
+
+
+h2 {
+  font-size: 42px;
+
+}
+
+h3 {
+  color: grey;
+  font-size: 21px;
+}
+
+#phone {
+  margin-top: 25px;
+}
+
+
+footer p {
+  color: grey;
+  font-size: 21px;
+  text-align: right;
+}
